@@ -1,0 +1,6 @@
+STOCK FILTER - P/B SCREENER (v2)
+
+1. Open the stock-filter- folder and read README.md.
+2. Double-click RUN_PROJECT.bat (needs Node.js). Fill in .env on the first run, then run it again.
+   For a quick test without SMS, set OTP_DEV_MODE=true in .env - the OTP appears in the terminal.
+3. Open http://localhost:8888, create an account, verify the OTP, and click any stock for its chart and BUY/HOLD/SELL signal.
